@@ -1,0 +1,5 @@
+DRC Rules Export File for PCB: Y:\My Hardware\Altium\IceCube\Mini-Mainboard\MMB_Controller (2-27-2020 2-48-15 PM)\Design Projects\Mini MB\MMB_Power_Board.PcbDoc
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=10.00
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=10.00
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0

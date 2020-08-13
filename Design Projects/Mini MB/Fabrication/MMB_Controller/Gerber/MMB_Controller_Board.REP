@@ -1,0 +1,464 @@
+*************************************************************
+FileName = MMB_Controller_Board.GBR
+AutoAperture = True
+*************************************************************
+Generating : Layer 8
+      File : MMB_Controller_Board.GBL
+
+    Adding Layer      : Layer 8
+
+    Adding Layer      : Board
+
+    Adding Layer      : GerbTB
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D14
+    D17
+    D85
+    D86
+    D93
+    D98
+    D99
+    D100
+    D101
+    D102
+    D103
+    D104
+    D108
+    D109
+    D110
+    D111
+    D112
+    D113
+    D114
+    D128
+    D129
+    D130
+    D131
+    D132
+    D133
+    D134
+    D135
+    D136
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : MMB_Controller_Board.GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Board
+
+    Adding Layer      : GerbTB
+
+    Adding Layer      : Layer 1
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+    D46
+*************************************************************
+
+*************************************************************
+Generating : Layer 7P
+      File : MMB_Controller_Board.GP2
+
+    Adding Layer      : Layer 7P
+
+    Adding Layer      : Board
+
+    Adding Layer      : GerbTB
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D17
+    D115
+    D116
+    D117
+    D118
+    D119
+    D120
+    D121
+    D122
+    D123
+*************************************************************
+
+*************************************************************
+Generating : Top Silk
+      File : MMB_Controller_Board.GTO
+
+    Adding Layer      : Top Silk
+
+    Adding Layer      : Board
+
+    Adding Layer      : GerbTB
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+*************************************************************
+
+*************************************************************
+Generating : Layer 6
+      File : MMB_Controller_Board.G4
+
+    Adding Layer      : Layer 6
+
+    Adding Layer      : Board
+
+    Adding Layer      : GerbTB
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D17
+    D114
+    D127
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : MMB_Controller_Board.GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Board
+
+    Adding Layer      : GerbTB
+
+    Adding Layer      : Layer 8
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D17
+    D23
+    D24
+    D31
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+    D46
+    D146
+    D147
+    D148
+    D149
+    D150
+    D151
+    D152
+    D153
+    D154
+*************************************************************
+
+*************************************************************
+Generating : Layer 5
+      File : MMB_Controller_Board.G3
+
+    Adding Layer      : Layer 5
+
+    Adding Layer      : Board
+
+    Adding Layer      : GerbTB
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D17
+    D110
+    D111
+    D112
+    D113
+    D114
+*************************************************************
+
+*************************************************************
+Generating : Top Mask
+      File : MMB_Controller_Board.GTS
+
+    Adding Layer      : Top Mask
+
+    Adding Layer      : Board
+
+    Adding Layer      : GerbTB
+
+    Adding Layer      : Layer 1
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D17
+    D47
+    D48
+    D49
+    D50
+    D51
+    D52
+    D53
+    D54
+    D55
+    D56
+    D57
+    D58
+    D59
+    D60
+    D61
+    D62
+    D63
+    D64
+    D65
+    D66
+    D67
+    D68
+    D69
+    D70
+    D71
+    D72
+    D73
+    D74
+    D75
+    D76
+    D77
+    D78
+    D79
+    D80
+*************************************************************
+
+*************************************************************
+Generating : Layer 4 Pow
+      File : MMB_Controller_Board.G2
+
+    Adding Layer      : Layer 4 Pow
+
+    Adding Layer      : Board
+
+    Adding Layer      : GerbTB
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D17
+    D110
+    D111
+    D112
+    D113
+    D114
+    D124
+    D125
+    D126
+*************************************************************
+
+*************************************************************
+Generating : Bottom Mask
+      File : MMB_Controller_Board.GBS
+
+    Adding Layer      : Bottom Mask
+
+    Adding Layer      : Board
+
+    Adding Layer      : GerbTB
+
+    Adding Layer      : Layer 8
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D17
+    D51
+    D52
+    D59
+    D64
+    D65
+    D66
+    D67
+    D68
+    D69
+    D70
+    D74
+    D75
+    D76
+    D77
+    D78
+    D79
+    D80
+    D137
+    D138
+    D139
+    D140
+    D141
+    D142
+    D143
+    D144
+    D145
+*************************************************************
+
+*************************************************************
+Generating : Layer 3
+      File : MMB_Controller_Board.G1
+
+    Adding Layer      : Layer 3
+
+    Adding Layer      : Board
+
+    Adding Layer      : GerbTB
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D17
+    D113
+    D114
+    D124
+*************************************************************
+
+*************************************************************
+Generating : Bottom Silk
+      File : MMB_Controller_Board.GBO
+
+    Adding Layer      : Bottom Silk
+
+    Adding Layer      : Board
+
+    Adding Layer      : GerbTB
+
+
+Used DCodes :
+    D11
+    D13
+    D14
+    D15
+    D16
+    D17
+*************************************************************
+
+*************************************************************
+Generating : Layer 2P
+      File : MMB_Controller_Board.GP1
+
+    Adding Layer      : Layer 2P
+
+    Adding Layer      : Board
+
+    Adding Layer      : GerbTB
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D17
+    D115
+    D116
+    D117
+    D118
+    D119
+    D120
+    D121
+    D122
+    D123
+*************************************************************
+
+*************************************************************
+Generating : Layer 1
+      File : MMB_Controller_Board.GTL
+
+    Adding Layer      : Layer 1
+
+    Adding Layer      : Board
+
+    Adding Layer      : GerbTB
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D14
+    D17
+    D81
+    D82
+    D83
+    D84
+    D85
+    D86
+    D87
+    D88
+    D89
+    D90
+    D91
+    D92
+    D93
+    D94
+    D95
+    D96
+    D97
+    D98
+    D99
+    D100
+    D101
+    D102
+    D103
+    D104
+    D105
+    D106
+    D107
+    D108
+    D109
+    D110
+    D111
+    D112
+    D113
+    D114
+*************************************************************
+

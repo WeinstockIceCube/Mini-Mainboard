@@ -1,0 +1,10 @@
+Output: Report Board Stack
+Type  : Report Board Stack
+From  : PCB Document [MMB_Controller_Board.pcbdoc]
+   Generated File[MMB_Controller_Board.xls]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 18:08:01 On 09.06.2020

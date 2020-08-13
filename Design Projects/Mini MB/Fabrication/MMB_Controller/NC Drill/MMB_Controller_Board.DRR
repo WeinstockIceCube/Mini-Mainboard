@@ -1,0 +1,20 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: MMB_Controller_Board.pcbdoc   09.06.2020  18:07:52
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Layer 1 to Layer 8
+ASCII RoundHoles File : MMB_Controller_Board.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      10mil (0.254mm)                                           Round             357       PTH        0.00inch (0.00mm)
+T2      43mil (1.092mm)                                           Round             6         PTH        0.00inch (0.00mm)
+T3      62mil (1.575mm)                                           Round             2         PTH        0.00inch (0.00mm)
+T4      67mil (1.702mm)                                           Round             8         PTH        0.00inch (0.00mm)
+T5      125mil (3.175mm)                                          Round             4         PTH        0.00inch (0.00mm)
+T6      165mil (4.191mm)                                          Round             2         PTH        0.00inch (0.00mm)
+T7      55mil (1.397mm)                                           Round             4         NPTH       0.00inch (0.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              383
+
+Total Processing Time (hh:mm:ss) : 00:00:01

@@ -1,0 +1,6 @@
+[ProjectGroup]
+Version=1.0
+[Project1]
+ProjectPath=MMB_Controller.PrjPcb
+[Project2]
+ProjectPath=MMB_Power.PrjPcb

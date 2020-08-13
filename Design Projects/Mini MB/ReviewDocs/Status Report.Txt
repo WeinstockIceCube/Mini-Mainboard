@@ -1,0 +1,14 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 15:43:37 On 13.05.2020
+
+Output: Export STEP
+Type  : ExportSTEP
+From  : Variant [[No Variations]] of PCB Document [MMB_Power_Board.PcbDoc]
+   Generated File[MMB_Power_Board.step]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 15:43:40 On 13.05.2020
